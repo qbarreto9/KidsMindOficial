@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
 
-     <div id="imagens"></div>
+     <div id="imagem"></div>
 
              <img src="nome.png" id="nome"/>
              <img src="Feed%20de%20postagem.png" id="feedp"/>
