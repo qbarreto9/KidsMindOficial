@@ -1,0 +1,102 @@
+﻿body{
+
+    background:white;
+
+}
+#imagens{
+
+    position:absolute;    
+    background:#A9A9A9;
+    width:1300px;
+    height:90px;
+    right:0%;
+    top:0%;
+    
+}
+
+#dive{
+    background-color:white;
+    position:absolute;
+    width:127px;
+    height:198px;
+    right:45%;
+    top:40%;
+    opacity:0.8;
+  
+}
+
+
+#feedp{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:75%;
+    top:3%;
+
+}
+
+
+#feedn{
+    
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:80%;
+    top:3%;
+}
+
+
+#conf{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:85%;
+    top:3%;
+
+}
+
+
+#login{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:90%;
+    top:3%;
+
+}
+
+#logout{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:95%;
+    top:3%;
+
+}
+
+#nome{
+
+    position:absolute;
+    width:180px;
+    height:70px;
+    right:84%;
+    top:1%;
+}
+
+
+#englobando {
+
+   
+    position:absolute;
+    width:127px;
+    height:198px;
+    right:60%;
+    left:5%;
+    top:0%;
+   
+
+}
