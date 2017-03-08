@@ -9,12 +9,12 @@
 </head>
 <body>
     <form id="form1" runat="server">
-	
-	<img src ="criancada.jpg" id="criancada"/>
+
+        <img src ="criancada.jpg" id="criancada"/>
 
      <div id="imagem"></div>
 
-             
+            
              <img src="Feed%20de%20postagem.png" id="feedp"/>
              <img src="Feed%20de%20noticia.png" id="feedn"/>
              <img src="Configuração.png" id="conf"/>
@@ -25,6 +25,7 @@
        
         <div id="dive"> 
 
+           
 
         <asp:Label ID="lblemail" runat="server" Text="Email"></asp:Label>
         <asp:TextBox ID="txtemail" runat="server"></asp:TextBox>
@@ -45,12 +46,9 @@
         </br>
 
         <asp:Button ID="Button1" runat="server" Text="Entrar" />
-           
-
+               
             </div>
-   
-   <div id="div1"></div>
-   
+    <div id="div1"></div>
     </form>
 </body>
 </html>
