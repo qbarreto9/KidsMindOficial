@@ -1,0 +1,5 @@
+D:\KidsMindOficial\KidsMind3\KidsMind3\bin\KidsMind3.dll
+D:\KidsMindOficial\KidsMind3\KidsMind3\bin\KidsMind3.pdb
+D:\KidsMindOficial\KidsMind3\KidsMind3\obj\Debug\KidsMind3.csprojResolveAssemblyReference.cache
+D:\KidsMindOficial\KidsMind3\KidsMind3\obj\Debug\KidsMind3.dll
+D:\KidsMindOficial\KidsMind3\KidsMind3\obj\Debug\KidsMind3.pdb
