@@ -11,10 +11,10 @@
 
 
 <body>
-
     
     <form id="form1" runat="server">
-	
+
+
 	<img src ="fundo.jpg" id="fundo"/>
        
     <img src ="criancas_brincando.jpeg" id="criancada"/>

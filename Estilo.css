@@ -7,7 +7,7 @@
 
     position:absolute;    
     background:#F0F8FF;
-    width:1273px;
+    width:1422px;
     height:95px;
     right:6%;
     left:0%;
@@ -70,8 +70,8 @@
 
 #fundo {
     position: absolute;
-    width: 1261px;
-    height:1200px;
+    width: 1410.1px;
+    height:1155px;
     top:0%;
 }
 
@@ -194,8 +194,8 @@
 #criancada {
 
     position:absolute;
-    width:1263px;
-    height:900px;
+    width:1410px;
+    height:800px;
     left:0.6%;
     top:0%;
     opacity:0.8;
@@ -264,7 +264,7 @@
 #titulo {
     font-weight:bold;
     position:absolute;
-    top:105%;
+    top:110%;
     left:43%;
     font-size:40px;
     color:#FFFFFF;
@@ -274,9 +274,11 @@
 #sobre {
 
     position:absolute;
-    top:115%;
+    top:120%;
     font-size:15px;
     color:#FFFFFF;
+    width:900px;
+    left:15%;
  
 
 }
