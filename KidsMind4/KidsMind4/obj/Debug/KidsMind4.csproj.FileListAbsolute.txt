@@ -1,5 +1,0 @@
-D:\KidsMindOficial\KidsMind4\KidsMind4\bin\KidsMind4.dll
-D:\KidsMindOficial\KidsMind4\KidsMind4\bin\KidsMind4.pdb
-D:\KidsMindOficial\KidsMind4\KidsMind4\obj\Debug\KidsMind4.csprojResolveAssemblyReference.cache
-D:\KidsMindOficial\KidsMind4\KidsMind4\obj\Debug\KidsMind4.dll
-D:\KidsMindOficial\KidsMind4\KidsMind4\obj\Debug\KidsMind4.pdb
